@@ -1,0 +1,7 @@
+str1=input("Enter your name: ")
+uppercase=str1.upper()
+lowercase=str1.lower()
+length=len(str1)
+print(uppercase)
+print(lowercase)
+print(length)
